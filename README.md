@@ -1,4 +1,4 @@
-### Olá, eu sou o Eduardo Guedes! seja bem-vindo(a)! 👋
+### Olá, sou o Eduardo Guedes! seja bem-vindo(a)! 👋
 Aprendiz assíduo de desenvolvimento Front-end com uma afinidade por Back-end 👨‍💻. Graduando em Análise e Desenvolvimento de Sistemas, Arquiteto e Urbanista (fora de exercício).
 
 <div align="center">
