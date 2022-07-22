@@ -1,5 +1,5 @@
 ### Olá, sou o Eduardo Guedes! seja bem-vindo(a)! 👋
-Aprendiz assíduo de desenvolvimento Front-end com afinidade por Back-end 👨‍💻 (Caminhando para FullStack). Graduando em Análise e Desenvolvimento de Sistemas, Arquiteto e Urbanista (fora de exercício).
+Aprendiz assíduo de desenvolvimento Front-end com paixão por Back-end 👨‍💻 (Caminhando para FullStack). Graduando em Análise e Desenvolvimento de Sistemas, Arquiteto e Urbanista (fora de exercício).
 
 <div align="center">
   <a href="https://github.com/eduardoguedes95">
