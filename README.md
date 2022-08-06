@@ -14,7 +14,6 @@ Aprendiz assíduo de desenvolvimento Front-end com paixão por Back-end 👨‍�
   <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div> 
 <br>
-##
 <div>
   <a href="https://instagram.com/eduardoguedes95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
