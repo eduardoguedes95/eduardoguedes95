@@ -16,5 +16,5 @@ Aprendiz assíduo de desenvolvimento Front-end com paixão por Back-end 👨‍�
 <br>
 <div>
   <a href="https://instagram.com/eduardoguedes95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/eduardoguedes95" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=blue backgrouncolor=blue" target="_blank"></a>
+  <a href="https://instagram.com/eduardoguedes95" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
