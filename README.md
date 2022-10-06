@@ -3,7 +3,6 @@ Aprendiz assíduo de desenvolvimento Front-end com paixão por Back-end 👨‍�
 
 <div align="center">
   <a href="https://github.com/eduardoguedes95">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoguedes95&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoguedes95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoguedes95&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
